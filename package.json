@@ -1,0 +1,16 @@
+{
+  "name": "tweet_bot",
+  "version": "1.0.0",
+  "description": "a bot for twitter made with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweet",
+    "bot"
+  ],
+  "author": "Sergio M.",
+  "license": "ISC"
+}
