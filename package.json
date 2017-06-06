@@ -12,5 +12,8 @@
     "bot"
   ],
   "author": "Sergio M.",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "form-data": "^2.1.4"
+  }
 }
